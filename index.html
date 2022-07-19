@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    
+    <head>
+
+        <meta charset="utf-8" />
+        <title>Cocacola Website Landing Page</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"/>
+
+        <!-- Link Swiper's CSS -->
+        <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+        
+        <link rel="stylesheet" href="css/style.css">
+
+    </head>
+    
+    <body>
+
+        <section>
+
+            <div class="circle"></div>
+            <header>
+                <a href="#"><img src="imagens/coca-cola-logo.png" class="logo"></a>
+                <div class="toggle" onclick="toggleMenu()"></div>
+                <ul class="navigation">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Menu</a></li>
+                    <li><a href="#">What's New</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </header>
+
+            <div class="content">
+                <div class="textBox">
+                    <h2>Taste the Feeling</h2>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum.</p>
+                    <a href="#">Learn More</a>
+                </div>
+
+                <!-- Swiper -->
+                <div class="imgBox swiper-container swiper mySwiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide"><img src="imagens/cocacola1.png"></div>
+                        <div class="swiper-slide"><img src="imagens/cocacola2.png"></div>
+                        <div class="swiper-slide"><img src="imagens/cocacola3.png"></div>
+                        <div class="swiper-slide"><img src="imagens/cocacola4.png"></div>
+                        <div class="swiper-slide"><img src="imagens/cocacola5.png"></div>
+                        <div class="swiper-slide"><img src="imagens/cocacola6.png"></div>
+                    </div>
+                    <!--<div class="swiper-pagination"></div>--><!--bolinhas em baixo do slider-->
+                </div>
+            </div> 
+            
+            <ul class="sci">
+                <li><a href="#"><img src="imagens/facebook.png"></a></li>
+                <li><a href="#"><img src="imagens/twitter.png"></a></li>
+                <li><a href="#"><img src="imagens/instagram.png"></a></li>
+            </ul>
+    
+        </section>
+    
+        <!-- Swiper JS -->
+        <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+        <!-- Initialize Swiper -->
+        <script type="text/javascript" src="js/script.js"></script>
+ 
+    </body>
+
+</html>
