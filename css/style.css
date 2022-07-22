@@ -40,3 +40,8 @@ header .logo {
   position: relative;
   max-width: 150px;
 }    
+
+header .navigation {
+  position: relative;
+  display: flex;
+}
