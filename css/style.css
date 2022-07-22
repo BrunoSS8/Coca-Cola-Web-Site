@@ -79,3 +79,7 @@ header .navigation li a {
   line-height: 1.4em;
   font-weight: 700;
 }
+
+.content .textBox p {
+  color: #fff;
+}
