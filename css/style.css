@@ -95,3 +95,12 @@ header .navigation li a {
   letter-spacing: 1px;
   text-decoration: none;
 }
+
+.sci {
+  position: absolute;
+  bottom: 40px;
+  left: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
