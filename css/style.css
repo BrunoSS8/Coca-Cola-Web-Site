@@ -157,3 +157,9 @@ header .navigation li a {
   display: block;
   width: 100%;
 }
+
+.content .imgBox {
+  width: 500px;
+  display: flex;
+  justify-content: flex-end;
+}
