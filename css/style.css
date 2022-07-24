@@ -152,3 +152,8 @@ header .navigation li a {
   display: flex;
   justify-content: center;
 }
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+}
