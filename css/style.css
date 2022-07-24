@@ -163,3 +163,7 @@ header .navigation li a {
   display: flex;
   justify-content: flex-end;
 }
+
+.content .imgBox img {
+        max-width: 150px;
+    }
