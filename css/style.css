@@ -143,3 +143,12 @@ header .navigation li a {
   padding-top: 50px;
   padding-bottom: 50px;
 }
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 180px;
+  height: 460px;
+  display: flex;
+  justify-content: center;
+}
