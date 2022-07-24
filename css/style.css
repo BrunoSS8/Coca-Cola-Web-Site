@@ -121,3 +121,8 @@ header .navigation li a {
   border-radius: 50%;
   transition: 0.2s ease-in-out;
 }
+
+.sci li a:hover {
+  background: #e51e2a;
+  transform: translateY(-10px);
+} 
