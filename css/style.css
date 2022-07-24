@@ -126,3 +126,8 @@ header .navigation li a {
   background: #e51e2a;
   transform: translateY(-10px);
 } 
+
+.sci li a img {
+  filter: invert(1);
+  transform: scale(0.5); /*alterar para 1 ou trocar de imagem */
+}
