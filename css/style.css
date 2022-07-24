@@ -131,3 +131,9 @@ header .navigation li a {
   filter: invert(1);
   transform: scale(0.5); /*alterar para 1 ou trocar de imagem */
 }
+
+.swiper {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
