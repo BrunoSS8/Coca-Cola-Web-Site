@@ -184,3 +184,5 @@ header .navigation li a {
 {
   background-image: none;
 }
+
+@media (max-width: 991px)
