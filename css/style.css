@@ -178,3 +178,9 @@ header .navigation li a {
     display: block;
     width: 100%;
 }*/
+
+.swiper-container .swiper-slide-shadow-left,
+.swiper-container .swiper-slide-shadow-right
+{
+  background-image: none;
+}
