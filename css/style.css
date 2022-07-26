@@ -173,3 +173,8 @@ header .navigation li a {
         bottom: 0;
         max-height: 100%;
 }
+
+/*.swiper-slide img {
+    display: block;
+    width: 100%;
+    }*/
