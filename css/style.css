@@ -166,10 +166,10 @@ header .navigation li a {
 
 .content .imgBox img {
         max-width: 150px;
-    }
+}
 
 .swiper-slide img {
         position: absolute;
         bottom: 0;
         max-height: 100%;
-    }
+}
