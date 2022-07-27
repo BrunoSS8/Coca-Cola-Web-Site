@@ -192,3 +192,6 @@ header .navigation li a {
         section {
             padding: 150px 40px;
         }
+        .sci {
+            left: 40px;
+        }
