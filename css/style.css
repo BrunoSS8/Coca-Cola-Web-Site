@@ -200,3 +200,6 @@ header .navigation li a {
         }
         .content .textBox
         .content .imgBox
+        {
+            max-width: 100%;
+        }
