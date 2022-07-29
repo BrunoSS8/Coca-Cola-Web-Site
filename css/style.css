@@ -211,4 +211,5 @@ header .navigation li a {
         }
         header .navigation.active {
            position: fixed;
+           top: 0;
         }
