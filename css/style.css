@@ -210,5 +210,5 @@ header .navigation li a {
             display: none;
         }
         header .navigation.active {
-           
+           position: fixed;
         }
