@@ -209,4 +209,6 @@ header .navigation li a {
         header .navigation {
             display: none;
         }
-        header .navigation.active
+        header .navigation.active {
+           
+        }
