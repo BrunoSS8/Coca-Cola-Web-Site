@@ -217,4 +217,5 @@ header .navigation li a {
            height: 100%;
            background: #e51e2a;
            display: flex;
+           flex-direction:
         }
