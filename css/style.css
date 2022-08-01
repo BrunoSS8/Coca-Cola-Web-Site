@@ -219,6 +219,6 @@ header .navigation li a {
            display: flex;
            flex-direction: column;
            justify-content: center;
-           align-items:
+           align-items: center;
            z-index:
         }
