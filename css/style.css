@@ -223,7 +223,7 @@ header .navigation li a {
            z-index: 10;
         }
         header .navigation li a {
-           margin: 20px
+           margin: 20px 0;
            font-size:
            font-weight:
         }
